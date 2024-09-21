@@ -6,6 +6,7 @@ class FirstClass {
 
   void deposit (){
     int deposit = 500;
+    String sa = 'Santo';
   }
 }
 
